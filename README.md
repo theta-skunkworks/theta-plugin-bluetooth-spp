@@ -1,7 +1,7 @@
 # Sample of THETA Plug-in that communicates using Bluetooth SPP
 
-より詳しい日本語の説明は[こちら](https://qiita.com/KA-2/items/*****************)。<br>
-[Click here](https://qiita.com/KA-2/items/*****************) for a more detailed explanation in Japanese.
+より詳しい日本語の説明は[こちら](https://qiita.com/KA-2/items/b6d261d9b8bf584ebfe4)。<br>
+[Click here](https://qiita.com/KA-2/items/b6d261d9b8bf584ebfe4) for a more detailed explanation in Japanese.
 
 ## Overview
 
