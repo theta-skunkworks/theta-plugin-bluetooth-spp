@@ -17,8 +17,7 @@ When the connection is established with the device found first and communication
 If the Device can use Excel, you can draw graphs in real time by using an add-in called DataStreamer.<br>
 Please also refer to the video below.<br>
 
--Paste a link to a tweet that includes a video-
-
+[![](https://img.youtube.com/vi/qEebELw_9L0/0.jpg)](https://www.youtube.com/watch?v=qEebELw_9L0)
 
 ## Development Environment
 
